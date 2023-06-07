@@ -1,4 +1,4 @@
-# KSY PoE HAT（開発中）
+# KSY PoE HAT
 
 
 
